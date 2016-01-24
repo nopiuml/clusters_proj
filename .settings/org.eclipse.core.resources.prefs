@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//clustering/thread_cluster.py=utf-8
+encoding//processing/MyAnalyzer.py=utf-8
+encoding//processing/nltk_scikit.py=utf-8
+encoding//processing/twokenize.py=utf-8
